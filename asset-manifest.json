@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Nitin6527/progressive-web-app/static/css/main.d741f5f7.chunk.css",
+    "main.js": "/Nitin6527/progressive-web-app/static/js/main.f399c250.chunk.js",
+    "main.js.map": "/Nitin6527/progressive-web-app/static/js/main.f399c250.chunk.js.map",
+    "runtime-main.js": "/Nitin6527/progressive-web-app/static/js/runtime-main.e350955d.js",
+    "runtime-main.js.map": "/Nitin6527/progressive-web-app/static/js/runtime-main.e350955d.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Nitin6527/progressive-web-app/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5bdf2fbf.chunk.js": "/Nitin6527/progressive-web-app/static/js/2.5bdf2fbf.chunk.js",
+    "static/js/2.5bdf2fbf.chunk.js.map": "/Nitin6527/progressive-web-app/static/js/2.5bdf2fbf.chunk.js.map",
+    "index.html": "/Nitin6527/progressive-web-app/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Nitin6527/progressive-web-app/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.d741f5f7.chunk.css.map": "/Nitin6527/progressive-web-app/static/css/main.d741f5f7.chunk.css.map",
+    "static/js/2.5bdf2fbf.chunk.js.LICENSE.txt": "/Nitin6527/progressive-web-app/static/js/2.5bdf2fbf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Nitin6527/progressive-web-app/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e350955d.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5bdf2fbf.chunk.js",
+    "static/css/main.d741f5f7.chunk.css",
+    "static/js/main.f399c250.chunk.js"
+  ]
+}
