@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/progressive-web-app/static/css/main.614fdf9a.chunk.css",
-    "main.js": "/progressive-web-app/static/js/main.95e3d902.chunk.js",
-    "main.js.map": "/progressive-web-app/static/js/main.95e3d902.chunk.js.map",
+    "main.js": "/progressive-web-app/static/js/main.cb7242bc.chunk.js",
+    "main.js.map": "/progressive-web-app/static/js/main.cb7242bc.chunk.js.map",
     "runtime-main.js": "/progressive-web-app/static/js/runtime-main.59cf6852.js",
     "runtime-main.js.map": "/progressive-web-app/static/js/runtime-main.59cf6852.js.map",
     "static/css/2.6d7c7915.chunk.css": "/progressive-web-app/static/css/2.6d7c7915.chunk.css",
     "static/js/2.5bdf2fbf.chunk.js": "/progressive-web-app/static/js/2.5bdf2fbf.chunk.js",
     "static/js/2.5bdf2fbf.chunk.js.map": "/progressive-web-app/static/js/2.5bdf2fbf.chunk.js.map",
     "index.html": "/progressive-web-app/index.html",
+    "service-worker.js": "/progressive-web-app/service-worker.js",
+    "service-worker.js.map": "/progressive-web-app/service-worker.js.map",
     "static/css/2.6d7c7915.chunk.css.map": "/progressive-web-app/static/css/2.6d7c7915.chunk.css.map",
     "static/css/main.614fdf9a.chunk.css.map": "/progressive-web-app/static/css/main.614fdf9a.chunk.css.map",
     "static/js/2.5bdf2fbf.chunk.js.LICENSE.txt": "/progressive-web-app/static/js/2.5bdf2fbf.chunk.js.LICENSE.txt",
@@ -19,6 +21,6 @@
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.5bdf2fbf.chunk.js",
     "static/css/main.614fdf9a.chunk.css",
-    "static/js/main.95e3d902.chunk.js"
+    "static/js/main.cb7242bc.chunk.js"
   ]
 }
