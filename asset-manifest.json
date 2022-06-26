@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/progressive-web-app/static/css/main.614fdf9a.chunk.css",
-    "main.js": "/progressive-web-app/static/js/main.c4ace738.chunk.js",
-    "main.js.map": "/progressive-web-app/static/js/main.c4ace738.chunk.js.map",
+    "main.css": "/progressive-web-app/static/css/main.bc2ef392.chunk.css",
+    "main.js": "/progressive-web-app/static/js/main.1e748823.chunk.js",
+    "main.js.map": "/progressive-web-app/static/js/main.1e748823.chunk.js.map",
     "runtime-main.js": "/progressive-web-app/static/js/runtime-main.59cf6852.js",
     "runtime-main.js.map": "/progressive-web-app/static/js/runtime-main.59cf6852.js.map",
     "static/css/2.6d7c7915.chunk.css": "/progressive-web-app/static/css/2.6d7c7915.chunk.css",
@@ -12,7 +12,7 @@
     "service-worker.js": "/progressive-web-app/service-worker.js",
     "service-worker.js.map": "/progressive-web-app/service-worker.js.map",
     "static/css/2.6d7c7915.chunk.css.map": "/progressive-web-app/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.614fdf9a.chunk.css.map": "/progressive-web-app/static/css/main.614fdf9a.chunk.css.map",
+    "static/css/main.bc2ef392.chunk.css.map": "/progressive-web-app/static/css/main.bc2ef392.chunk.css.map",
     "static/js/2.5bdf2fbf.chunk.js.LICENSE.txt": "/progressive-web-app/static/js/2.5bdf2fbf.chunk.js.LICENSE.txt",
     "static/media/App.css": "/progressive-web-app/static/media/SEGA.47b4bfa9.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.59cf6852.js",
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.5bdf2fbf.chunk.js",
-    "static/css/main.614fdf9a.chunk.css",
-    "static/js/main.c4ace738.chunk.js"
+    "static/css/main.bc2ef392.chunk.css",
+    "static/js/main.1e748823.chunk.js"
   ]
 }
